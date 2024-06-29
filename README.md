@@ -1,3 +1,15 @@
+# netlify-remix
+
+## Live Demo
+
+https://lisa-remix.netlify.app/
+
+# superbase info
+
+https://supabase.com/pricing
+
+# ------------------
+
 # Remix K-pop Stack
 
 ![k-pop site image](https://res.cloudinary.com/dzkoxrsdj/image/upload/v1648844684/CleanShot_2022-04-01_at_16.23.40_2x_oo3ppe.jpg)
